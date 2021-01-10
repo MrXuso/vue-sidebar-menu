@@ -195,6 +195,10 @@
       .vsm--toggle-btn_default {
         transform: rotate(180deg);
       }
+
+      .vsm--scroll-wrapper {
+        width: calc(100% + 8px);
+      }
     }
   
     &.vsm_rtl {
